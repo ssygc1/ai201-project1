@@ -42,22 +42,85 @@ def clean_document(text: str) -> str:
     return cleaned.strip()
 
 
+PRICE_LEVELS = {"N/A": 0, "$": 1, "$$": 2, "$$$": 3, "$$$$": 4}
+
+
+def parse_metadata(text: str) -> dict:
+    """
+    Extract structured numeric fields from a restaurant document so they can be
+    stored as ChromaDB metadata and filtered with `where` clauses.
+    """
+    def first(pattern, default=None, cast=str):
+        m = re.search(pattern, text, re.MULTILINE)
+        if not m:
+            return default
+        try:
+            return cast(m.group(1).strip())
+        except (ValueError, TypeError):
+            return default
+
+    price_raw = first(r"^Price Level:\s*(.+)$", default="N/A")
+    return {
+        "name": first(r"^Restaurant:\s*(.+)$", default=""),
+        "rating": first(r"^Rating:\s*([\d.]+)", default=0.0, cast=float),
+        "review_count": first(r"^Review Count:\s*(\d+)", default=0, cast=int),
+        "distance_miles": first(r"^Distance from Siebel Center:\s*([\d.]+)", default=999.0, cast=float),
+        "price_level": PRICE_LEVELS.get((price_raw or "N/A").strip(), 0),
+    }
+
+
 def chunk_documents(docs: list[dict]) -> list[dict]:
     """
     One chunk per document (whole-document strategy).
-    Each chunk carries the cleaned text and the source filename as metadata.
-    Returns list of {text, source, char_count} dicts.
+    Each chunk carries the cleaned text, the source filename, and structured
+    metadata (rating, review_count, distance_miles, price_level) for filtering.
     """
     chunks = []
     for doc in docs:
         text = clean_document(doc["text"])
         if len(text) == 0:
             continue
+        meta = parse_metadata(text)
         chunks.append({
             "text": text,
             "source": doc["source"],
             "char_count": len(text),
+            **meta,
         })
+    return chunks
+
+
+def chunk_documents_fixed(docs: list[dict], size: int = 200, overlap: int = 50) -> list[dict]:
+    """
+    Alternative chunking strategy — fixed-size sliding window with overlap.
+    Used only for the chunking-strategy comparison experiment. Each document
+    is split into multiple chunks of `size` characters with `overlap` between
+    adjacent chunks. The same per-document metadata is attached to every
+    resulting chunk so downstream filtering still works.
+    """
+    if size <= overlap:
+        raise ValueError("size must be greater than overlap")
+    step = size - overlap
+
+    chunks = []
+    for doc in docs:
+        text = clean_document(doc["text"])
+        if len(text) == 0:
+            continue
+        meta = parse_metadata(text)
+        for start in range(0, len(text), step):
+            piece = text[start:start + size]
+            if not piece.strip():
+                continue
+            chunks.append({
+                "text": piece,
+                "source": doc["source"],
+                "char_count": len(piece),
+                "chunk_start": start,
+                **meta,
+            })
+            if start + size >= len(text):
+                break
     return chunks
 
 

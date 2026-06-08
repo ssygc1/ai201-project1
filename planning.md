@@ -70,7 +70,7 @@ Because each document is already self-contained and small, the best chunking str
 | 2 | What Korean restaurants are near the CS building? | At least: Spoon House Korean Kitchen (0.33 mi, 3.3★), Jipbap Taste of Korea (0.35 mi, 3.9★), Yogi Korean Restaurant (0.35 mi, 3.2★), SGD Dubu (0.41 mi, 5.0★) |
 | 3 | Which coffee shops within 0.5 miles of Siebel Center have a rating of 4.0 or higher? | Espresso Royale (4.0★, 0.09 mi), Hey Bobo Cafe (4.0★, 0.32 mi), Bakelab (4.6★, 0.33 mi), Cracked on Green (4.0★, 0.36 mi), Yummy Future (4.6★, 0.36 mi), Dutch Bros Coffee (4.3★, 0.40 mi), Cotti Coffee (4.5★, 0.41 mi), BrewLab Coffee (4.4★, 0.43 mi) |
 | 4 | Which cheap ($ price level) restaurants near the CS building have a Yelp rating above 4.0? | Huggermugger (5.0★, $, 0.22 mi), Cravings (4.1★, $, 0.28 mi), Paris Super Crepes (4.2★, $, 0.35 mi), Cracked on Green (4.0★, $, 0.36 mi), Latea Bubble Tea Lounge (4.1★, $, 0.36 mi) |
-| 5 | Which restaurant near Siebel has the most Yelp reviews? | The system should return the restaurant with the highest review_count in the corpus — retrievable from the "Review Count" field in each document. |
+| 5 | Which restaurant near Siebel has the most Yelp reviews? | Cravings — 217 reviews, 0.28 mi from Siebel Center, $ price level, 4.1★. Verified as the maximum `Review Count` value across all 100 documents in `documents/`. |
 
 ---
 
@@ -81,6 +81,23 @@ Because each document is already self-contained and small, the best chunking str
 2. **Semantic gap between category labels and dish names**: Documents describe cuisine at the category level (e.g., "Korean, Barbeque, Seafood") but contain no menu items. A user asking "where can I get bibimbap?" or "which places serve matcha lattes?" is querying at a specificity level the corpus cannot support. The embedding model will attempt to match the query to the closest category, but for specific dishes the match is unreliable. This is a known limitation of the knowledge base, not a pipeline bug — it should be documented as a failure case in the evaluation report.
 
 3. **Duplicate chain restaurant entries**: The corpus contains 3 Starbucks entries, 2 Taco Bells, 2 Subways, and 2 Circle Ks (different locations of the same chain). A query about "Starbucks near CS" will retrieve chunks from all three entries, and the LLM must reconcile slightly different distances for what the user likely thinks of as one restaurant. This could produce a confusing or averaged response.
+
+---
+
+## Stretch Features
+
+Four stretch features were added on top of the baseline pipeline. Each one was scoped before implementation; the plan is captured here so the spec stays in sync with the code.
+
+**1. Metadata Filtering (+1pt)** — Store `rating` (float), `review_count` (int), `distance_miles` (float), and `price_level` (int 0–4, where N/A=0, $=1, $$=2, $$$=3, $$$$=4) as ChromaDB metadata alongside each chunk's embedding. Expose two APIs: `retrieve(query, where=...)` (semantic + filter) and `metadata_query(where, order_by, descending)` (no vector similarity — pure filter and sort). Success criterion: the three evaluation questions that pure semantic retrieval got wrong (Q1 closest, Q4 cheap+rated, Q5 most reviews) all return the correct answer when routed through metadata APIs. Demo: `demo_metadata_filter.py` prints before/after for each.
+
+**2. Hybrid Search (+2pt)** — Add a BM25 index (`rank_bm25.BM25Okapi`) over the same 100 chunks. Combine BM25 and dense rankings using **Reciprocal Rank Fusion** with k=60 (Cormack et al., 2009):
+> RRF_score(d) = w_dense / (k + rank_dense(d)) + w_bm25 / (k + rank_bm25(d))
+
+Weights default to 1.0/1.0 (balanced). RRF combines ranks not raw scores, which avoids the score-normalization problem since dense cosine similarities and BM25 scores live on incompatible scales. Success criterion: at least one query where each method individually fails but the hybrid succeeds (target case: a halal query where BM25 surfaces "Garbanzo Mediterranean Fresh" that dense misses). Demo: `demo_hybrid_search.py` with 3 query types — paraphrase-heavy, exact-rare-name, multi-feature descriptive.
+
+**3. Chunking Strategy Comparison (+1pt)** — Add an alternative chunker (`chunk_documents_fixed(size=200, overlap=50)`) and a second ChromaDB collection (`.chroma_fixed200`). Run the same 3 evaluation queries against both collections. Anticipated result: the alternative is worse for this corpus because fixed-200 windows sever the restaurant's identifying header from its `== USEFUL FOR ==` tail, leaving tail chunks that match on generic tags ("Asian food", "Late night") without restaurant identity. Success criterion: a documented case where Strategy B retrieves zero correct results in top-5 for a query Strategy A gets fully right. Demo: `demo_chunking_comparison.py`.
+
+**4. Conversational Memory (+1pt)** — Add `ask_with_history(question, history)` to `query.py` and a second Gradio tab using `gr.Chatbot`. Two memory mechanisms: (a) the **retrieval query** is the last 1–2 prior user questions concatenated with the current one, so topical context survives across turns; (b) the **full chat history** is injected into the Groq messages list with an explicit pronoun-resolution instruction so the LLM can resolve "those", "that one", etc. Success criterion: a 3-turn transcript where Turn 2's "those" and Turn 3's "that one" both resolve correctly against earlier turns — not just topic overlap.
 
 ---
 
@@ -145,3 +162,6 @@ I will give Claude the Retrieval Approach section of this planning.md and ask it
 
 **Milestone 5 — Generation and interface:**
 I will give Claude the grounding requirement from the project spec ("answers must be based only on the retrieved documents; include source attribution") and ask it to implement `query.py` with a `ask(query)` function that (1) calls `retrieve()`, (2) formats the chunks as numbered context blocks, (3) sends a grounded system prompt plus the context to Groq `llama-3.3-70b-versatile`, and (4) returns the response with restaurant names cited. I will verify by running all 5 evaluation questions and checking that source names appear in the output.
+
+**Stretch features — Metadata filtering, Hybrid search, Chunking comparison, Conversational memory:**
+For each stretch feature I will give Claude the corresponding section above (which states the API surface, the algorithm, and the success criterion) plus the existing `embed.py` / `query.py` / `app.py` as the integration target. Specific deliverables I will direct Claude to produce: (a) `parse_metadata()` regex parser + ChromaDB metadata storage + a small `metadata_query()` helper; (b) a `hybrid.py` module wrapping `rank_bm25.BM25Okapi` and a Reciprocal Rank Fusion combinator with `lru_cache` so the BM25 index is built once per process; (c) a `chunk_documents_fixed()` chunker and a `demo_chunking_comparison.py` that builds a second collection and runs the comparison; (d) `ask_with_history()` plus a `gr.Chatbot`-based tab added next to the existing single-query tab without removing it. I will verify each by running the demo script and confirming the success criterion in the section above. I will override any AI-generated code that compromises the existing single-query path — both modes must keep working.
