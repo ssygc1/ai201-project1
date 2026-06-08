@@ -1,0 +1,23 @@
+Title: Yummy Future Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/yummy-future-champaign-3
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Yummy Future
+Address: 609 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Coffee & Tea
+Rating: 4.6 / 5.0
+Review Count: 8
+Price Level: N/A
+Phone: 
+Opening Hours: Mon: 07:30-22:00, Tue: 07:30-22:00, Wed: 07:30-22:00, Thu: 07:30-22:00, Fri: 07:30-22:00, Sat: 09:00-23:00, Sun: 09:00-22:00
+
+== USEFUL FOR ==
+- Highly rated
+- Coffee / cafe
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

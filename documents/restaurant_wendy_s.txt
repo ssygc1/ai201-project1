@@ -1,0 +1,21 @@
+Title: Wendy's Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/wendys-urbana-4
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Wendy's
+Address: 1401 W. Green Street, Illini Union Lower Level, Urbana, IL 61801
+Distance from Siebel Center: 0.35 miles
+Categories: Fast Food, Burgers
+Rating: 1.8 / 5.0
+Review Count: 8
+Price Level: $
+Phone: 
+Opening Hours: Mon: 11:00-21:00, Tue: 11:00-21:00, Wed: 11:00-21:00, Thu: 11:00-21:00, Fri: 11:00-21:00, Sat: 11:00-18:00, Sun: 11:00-18:00
+
+== USEFUL FOR ==
+- Cheap food
+- Takeout / delivery
+- Quick lunch near CS

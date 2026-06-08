@@ -1,0 +1,22 @@
+Title: Burger King Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/burger-king-urbana-3
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Burger King
+Address: 1106 W University Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.22 miles
+Categories: Fast Food, Burgers
+Rating: 1.6 / 5.0
+Review Count: 11
+Price Level: $
+Phone: (217) 607-1351
+Opening Hours: Mon: 06:00-01:00, Tue: 06:00-01:00, Wed: 06:00-01:00, Thu: 06:00-01:00, Fri: 06:00-01:00, Sat: 06:00-01:00, Sun: 06:00-23:00
+
+== USEFUL FOR ==
+- Cheap food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

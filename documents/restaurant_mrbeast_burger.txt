@@ -1,0 +1,20 @@
+Title: MrBeast Burger Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/mrbeast-burger-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: MrBeast Burger
+Address: 1214 West University Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.20 miles
+Categories: Food Delivery Services, Burgers, Sandwiches
+Rating: 0.0 / 5.0
+Review Count: 0
+Price Level: N/A
+Phone: (877) 232-7898
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Sandwiches
+- Quick lunch near CS

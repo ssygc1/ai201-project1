@@ -1,0 +1,23 @@
+Title: Sushi Ichiban Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/sushi-ichiban-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Sushi Ichiban
+Address: 619 S Wright St, Champaign, IL 61820
+Distance from Siebel Center: 0.30 miles
+Categories: Sushi Bars, Japanese
+Rating: 2.9 / 5.0
+Review Count: 96
+Price Level: $$
+Phone: (217) 954-0493
+Opening Hours: Mon: 10:30-21:30, Tue: 10:30-21:30, Wed: 10:30-21:30, Thu: 10:30-21:30, Fri: 11:30-22:00, Sat: 11:30-22:00, Sun: 11:30-21:30
+
+== USEFUL FOR ==
+- Cheap food
+- Asian food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

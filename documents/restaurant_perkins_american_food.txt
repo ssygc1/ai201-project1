@@ -1,0 +1,22 @@
+Title: Perkins American Food Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/perkins-restaurant-and-bakery-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Perkins American Food
+Address: 1214 West University Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.20 miles
+Categories: Breakfast & Brunch, Bakeries, American
+Rating: 2.9 / 5.0
+Review Count: 106
+Price Level: $$
+Phone: (217) 560-7347
+Opening Hours: Mon: 05:30-00:00, Tue: 05:30-00:00, Wed: 05:30-00:00, Thu: 05:30-00:00, Fri: 05:30-00:00, Sat: 05:30-00:00, Sun: 05:30-00:00
+
+== USEFUL FOR ==
+- Cheap food
+- Breakfast / brunch
+- Takeout / delivery
+- Quick lunch near CS

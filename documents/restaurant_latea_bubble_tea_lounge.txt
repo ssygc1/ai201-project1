@@ -1,0 +1,23 @@
+Title: Latea Bubble Tea Lounge Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/latea-bubble-tea-lounge-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Latea Bubble Tea Lounge
+Address: 601 S 6th St, Ste 105, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Desserts, Bubble Tea
+Rating: 4.1 / 5.0
+Review Count: 113
+Price Level: $
+Phone: (217) 954-1855
+Opening Hours: Mon: 12:00-20:30, Tue: 12:00-20:30, Wed: 12:00-20:30, Thu: 12:00-20:30, Fri: 12:00-21:00, Sat: 12:00-21:00, Sun: 12:00-20:30
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Dessert
+- Takeout / delivery
+- Quick lunch near CS

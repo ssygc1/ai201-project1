@@ -1,0 +1,21 @@
+Title: Golden Wheat Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/golden-wheat-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Golden Wheat
+Address: 611 E Green St, Ste A, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Noodles, Chinese, Asian Fusion
+Rating: 4.5 / 5.0
+Review Count: 15
+Price Level: N/A
+Phone: (217) 819-0405
+Opening Hours: Mon: 12:00-20:00, Tue: 12:00-20:00, Wed: 12:00-20:00, Thu: 12:00-20:00, Fri: 12:00-20:00, Sat: 12:00-20:00, Sun: 12:00-20:00
+
+== USEFUL FOR ==
+- Highly rated
+- Asian food
+- Quick lunch near CS

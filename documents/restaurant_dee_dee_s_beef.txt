@@ -1,0 +1,22 @@
+Title: Dee-Dee’s Beef Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/dee-dee-s-beef-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Dee-Dee’s Beef
+Address: 619 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Sicilian, Sandwiches
+Rating: 5.0 / 5.0
+Review Count: 6
+Price Level: N/A
+Phone: (217) 621-7441
+Opening Hours: Thu: 17:00-21:00, Fri: 17:00-21:00, Sat: 17:00-21:00, Sun: 17:00-21:00
+
+== USEFUL FOR ==
+- Highly rated
+- Sandwiches
+- Takeout / delivery
+- Quick lunch near CS

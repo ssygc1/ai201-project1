@@ -1,0 +1,23 @@
+Title: Espresso Royale - Grainger Engineering Library Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/espresso-royale-grainger-engineering-library-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Espresso Royale - Grainger Engineering Library
+Address: 1301 W Springfield St, Urbana, IL 61801
+Distance from Siebel Center: 0.09 miles
+Categories: Coffee Roasteries, Coffee & Tea
+Rating: 4.0 / 5.0
+Review Count: 1
+Price Level: N/A
+Phone: (217) 552-1263
+Opening Hours: Mon: 07:30-00:00, Tue: 07:30-00:00, Wed: 07:30-00:00, Thu: 07:30-00:00, Fri: 07:30-22:00, Sat: 11:00-20:00, Sun: 11:00-00:00
+
+== USEFUL FOR ==
+- Highly rated
+- Coffee / cafe
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

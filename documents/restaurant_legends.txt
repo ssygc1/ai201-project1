@@ -1,0 +1,23 @@
+Title: Legends Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/legends-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Legends
+Address: 522 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.40 miles
+Categories: Bars, Sandwiches
+Rating: 3.7 / 5.0
+Review Count: 114
+Price Level: $
+Phone: (217) 355-7674
+Opening Hours: Mon: 11:00-02:00, Tue: 11:00-02:00, Wed: 11:00-02:00, Thu: 11:00-02:00, Fri: 11:00-02:00, Sat: 11:00-02:00, Sun: 11:00-02:00
+
+== USEFUL FOR ==
+- Cheap food
+- Sandwiches
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

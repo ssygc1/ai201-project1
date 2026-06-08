@@ -1,0 +1,24 @@
+Title: Cracked on Green Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/cracked-on-green-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Cracked on Green
+Address: 619 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Coffee & Tea, Breakfast & Brunch, Food Trucks
+Rating: 4.0 / 5.0
+Review Count: 185
+Price Level: $
+Phone: (217) 954-0361
+Opening Hours: Mon: 08:00-16:00, Tue: 08:00-16:00, Wed: 08:00-16:00, Thu: 08:00-16:00, Fri: 08:00-16:00, Sat: 08:00-16:00, Sun: 08:00-16:00
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Coffee / cafe
+- Breakfast / brunch
+- Takeout / delivery
+- Quick lunch near CS

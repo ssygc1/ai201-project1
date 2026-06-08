@@ -1,0 +1,22 @@
+Title: Murphy's Pub Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/murphys-pub-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Murphy's Pub
+Address: 604 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Pubs, New American
+Rating: 3.6 / 5.0
+Review Count: 152
+Price Level: $
+Phone: (217) 344-4372
+Opening Hours: Mon: 11:00-02:00, Tue: 11:00-02:00, Wed: 11:00-02:00, Thu: 11:00-02:00, Fri: 11:00-02:00, Sat: 11:00-02:00, Sun: 11:00-02:00
+
+== USEFUL FOR ==
+- Cheap food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

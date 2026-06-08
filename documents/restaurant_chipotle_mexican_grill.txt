@@ -1,0 +1,23 @@
+Title: Chipotle Mexican Grill Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/chipotle-mexican-grill-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Chipotle Mexican Grill
+Address: 528 E Green St, Ste 101, Champaign, IL 61820
+Distance from Siebel Center: 0.38 miles
+Categories: Mexican, Fast Food
+Rating: 2.4 / 5.0
+Review Count: 130
+Price Level: $
+Phone: (217) 344-0466
+Opening Hours: Mon: 10:30-23:00, Tue: 10:30-23:00, Wed: 10:30-23:00, Thu: 10:30-23:00, Fri: 10:30-23:00, Sat: 10:30-23:00, Sun: 10:30-23:00
+
+== USEFUL FOR ==
+- Cheap food
+- Mexican food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

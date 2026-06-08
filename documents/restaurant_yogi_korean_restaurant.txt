@@ -1,0 +1,21 @@
+Title: Yogi Korean Restaurant Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/yogi-korean-restaurant-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Yogi Korean Restaurant
+Address: 608 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.35 miles
+Categories: Korean
+Rating: 3.2 / 5.0
+Review Count: 24
+Price Level: N/A
+Phone: 
+Opening Hours: Mon: 11:00-21:00, Tue: 11:00-21:00, Wed: 11:00-21:00, Thu: 11:00-21:00, Fri: 11:00-21:00, Sat: 11:00-21:00, Sun: 11:00-21:00
+
+== USEFUL FOR ==
+- Asian food
+- Takeout / delivery
+- Quick lunch near CS

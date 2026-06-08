@@ -1,0 +1,22 @@
+Title: SGD Dubu Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/sgd-dubu-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: SGD Dubu
+Address: 707 S 6th St, Ste 105, Champaign, IL 61820
+Distance from Siebel Center: 0.41 miles
+Categories: Korean, Barbeque, Seafood
+Rating: 5.0 / 5.0
+Review Count: 5
+Price Level: N/A
+Phone: (217) 552-1223
+Opening Hours: Mon: 11:00-21:00, Tue: 11:00-21:00, Wed: 11:00-21:00, Thu: 11:00-21:00, Fri: 11:00-21:30, Sat: 11:00-21:30, Sun: 11:00-21:00
+
+== USEFUL FOR ==
+- Highly rated
+- Asian food
+- Takeout / delivery
+- Quick lunch near CS

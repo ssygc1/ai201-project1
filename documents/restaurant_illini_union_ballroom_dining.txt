@@ -1,0 +1,20 @@
+Title: Illini Union Ballroom Dining Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/illini-union-ballroom-dining-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Illini Union Ballroom Dining
+Address: 1404 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.26 miles
+Categories: American
+Rating: 2.7 / 5.0
+Review Count: 7
+Price Level: $
+Phone: (217) 333-3030
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Cheap food
+- Quick lunch near CS

@@ -1,0 +1,21 @@
+Title: Maize Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/maize-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Maize
+Address: 1401 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.33 miles
+Categories: Mexican
+Rating: 5.0 / 5.0
+Review Count: 1
+Price Level: N/A
+Phone: (217) 991-8657
+Opening Hours: Mon: 11:00-14:00, Tue: 11:00-14:00, Wed: 11:00-14:00, Thu: 11:00-14:00, Fri: 11:00-14:00
+
+== USEFUL FOR ==
+- Highly rated
+- Mexican food
+- Quick lunch near CS

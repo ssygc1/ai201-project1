@@ -1,0 +1,23 @@
+Title: Subway Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/subway-champaign-17
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Subway
+Address: 616 E Green St, Ste A, Champaign, IL 61820
+Distance from Siebel Center: 0.34 miles
+Categories: Fast Food, Sandwiches
+Rating: 2.3 / 5.0
+Review Count: 16
+Price Level: $
+Phone: (217) 239-0108
+Opening Hours: Mon: 08:00-02:30, Tue: 08:00-02:30, Wed: 08:00-02:30, Thu: 08:00-02:30, Fri: 08:00-03:00, Sat: 08:00-03:00, Sun: 08:00-02:30
+
+== USEFUL FOR ==
+- Cheap food
+- Sandwiches
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

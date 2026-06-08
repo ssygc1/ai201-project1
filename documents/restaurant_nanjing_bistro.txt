@@ -1,0 +1,22 @@
+Title: Nanjing Bistro Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/nanjing-bistro-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Nanjing Bistro
+Address: 508 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.42 miles
+Categories: Chinese
+Rating: 3.0 / 5.0
+Review Count: 12
+Price Level: N/A
+Phone: (217) 607-8117
+Opening Hours: Mon: 11:00-21:30, Tue: 11:00-21:30, Wed: 11:00-21:30, Thu: 11:00-21:30, Fri: 11:00-22:00, Sat: 11:00-22:00, Sun: 11:00-21:30
+
+== USEFUL FOR ==
+- Asian food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

@@ -1,0 +1,20 @@
+Title: Burrito King Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/burrito-king-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Burrito King
+Address: 902 W University Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.31 miles
+Categories: Mexican, Food Trucks
+Rating: 3.7 / 5.0
+Review Count: 3
+Price Level: N/A
+Phone: 
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Mexican food
+- Quick lunch near CS

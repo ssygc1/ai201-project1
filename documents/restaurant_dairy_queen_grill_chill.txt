@@ -1,0 +1,23 @@
+Title: Dairy Queen Grill & Chill Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/dairy-queen-grill-and-chill-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Dairy Queen Grill & Chill
+Address: 911 W, Urbana, IL 61801
+Distance from Siebel Center: 0.29 miles
+Categories: Fast Food, Ice Cream & Frozen Yogurt, Burgers
+Rating: 3.2 / 5.0
+Review Count: 15
+Price Level: $
+Phone: (217) 344-4108
+Opening Hours: Mon: 10:30-22:00, Tue: 10:30-22:00, Wed: 10:30-22:00, Thu: 10:30-22:00, Fri: 10:30-22:00, Sat: 10:30-22:00, Sun: 10:30-22:00
+
+== USEFUL FOR ==
+- Cheap food
+- Dessert
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

@@ -1,0 +1,22 @@
+Title: chili bistro Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/chili-bistro-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: chili bistro
+Address: 608 E University Ave, Ste 105, Champaign, IL 61820
+Distance from Siebel Center: 0.32 miles
+Categories: Chinese
+Rating: 5.0 / 5.0
+Review Count: 1
+Price Level: N/A
+Phone: (217) 363-3735
+Opening Hours: Mon: 11:00-21:30, Tue: 11:00-21:30, Wed: 11:00-21:30, Thu: 11:00-21:30, Fri: 11:00-22:00, Sat: 11:00-22:00, Sun: 11:00-21:30
+
+== USEFUL FOR ==
+- Highly rated
+- Asian food
+- Late night
+- Quick lunch near CS

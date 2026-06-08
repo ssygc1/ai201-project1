@@ -1,0 +1,20 @@
+Title: Circle K Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/circle-k-champaign-12
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Circle K
+Address: 609 East University Ave, Champaign, IL 61820
+Distance from Siebel Center: 0.28 miles
+Categories: Convenience Stores, Gas Stations
+Rating: 2.3 / 5.0
+Review Count: 3
+Price Level: N/A
+Phone: (217) 352-8762
+Opening Hours: Mon: 00:00-00:00, Tue: 00:00-00:00, Wed: 00:00-00:00, Thu: 00:00-00:00, Fri: 00:00-00:00, Sat: 00:00-00:00, Sun: 00:00-00:00
+
+== USEFUL FOR ==
+- Late night
+- Quick lunch near CS

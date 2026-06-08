@@ -1,0 +1,21 @@
+Title: Sun&Moon Premium Yogurt Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/sun-and-moon-premium-yogurt-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Sun&Moon Premium Yogurt
+Address: 512 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.41 miles
+Categories: Ice Cream & Frozen Yogurt
+Rating: 4.0 / 5.0
+Review Count: 1
+Price Level: N/A
+Phone: 
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Highly rated
+- Dessert
+- Quick lunch near CS

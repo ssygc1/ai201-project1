@@ -1,0 +1,20 @@
+Title: Come Get This Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/come-get-this-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Come Get This
+Address: 901 W Springfield, Champaign, IL 61821
+Distance from Siebel Center: 0.29 miles
+Categories: Food Trucks, Burgers, Hot Dogs
+Rating: 4.5 / 5.0
+Review Count: 4
+Price Level: N/A
+Phone: (217) 714-4355
+Opening Hours: Mon: 11:00-15:00, Tue: 11:00-15:00, Wed: 11:00-15:00, Thu: 11:00-15:00, Fri: 11:00-16:00, Sat: 11:00-15:00, Sun: 11:00-15:00
+
+== USEFUL FOR ==
+- Highly rated
+- Quick lunch near CS

@@ -1,0 +1,20 @@
+Title: Smoothie King Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/smoothie-king-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Smoothie King
+Address: 616 E Green St, Ste F, Champaign, IL 61820
+Distance from Siebel Center: 0.33 miles
+Categories: Juice Bars & Smoothies
+Rating: 3.5 / 5.0
+Review Count: 2
+Price Level: $$
+Phone: (217) 337-5555
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Cheap food
+- Quick lunch near CS

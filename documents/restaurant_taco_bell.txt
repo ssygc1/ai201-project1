@@ -1,0 +1,23 @@
+Title: Taco Bell Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/taco-bell-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Taco Bell
+Address: 1003 University, Urbana, IL 61801
+Distance from Siebel Center: 0.26 miles
+Categories: Fast Food, Tacos
+Rating: 2.4 / 5.0
+Review Count: 55
+Price Level: $
+Phone: (217) 367-2871
+Opening Hours: Mon: 09:00-03:00, Tue: 09:00-03:00, Wed: 09:00-03:00, Thu: 09:00-03:00, Fri: 09:00-03:30, Sat: 09:00-03:30, Sun: 11:00-03:00
+
+== USEFUL FOR ==
+- Cheap food
+- Mexican food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

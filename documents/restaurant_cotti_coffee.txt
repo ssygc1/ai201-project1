@@ -1,0 +1,22 @@
+Title: Cotti Coffee Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/cotti-coffee-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Cotti Coffee
+Address: 509 E Green St, Ste C, Champaign, IL 61820
+Distance from Siebel Center: 0.41 miles
+Categories: Coffee & Tea
+Rating: 4.5 / 5.0
+Review Count: 2
+Price Level: N/A
+Phone: 
+Opening Hours: Mon: 09:00-21:00, Tue: 09:00-21:00, Wed: 09:00-21:00, Thu: 09:00-21:00, Fri: 09:00-21:00, Sat: 10:00-21:00, Sun: 10:00-21:00
+
+== USEFUL FOR ==
+- Highly rated
+- Coffee / cafe
+- Takeout / delivery
+- Quick lunch near CS

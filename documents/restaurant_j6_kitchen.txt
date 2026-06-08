@@ -1,0 +1,20 @@
+Title: J6 Kitchen Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/j6-kitchen-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: J6 Kitchen
+Address: 516 E John St, Champaign, IL 61820
+Distance from Siebel Center: 0.43 miles
+Categories: Korean
+Rating: 0.0 / 5.0
+Review Count: 0
+Price Level: N/A
+Phone: 
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Asian food
+- Quick lunch near CS

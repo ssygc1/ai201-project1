@@ -1,0 +1,23 @@
+Title: TEAMOJI Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/teamoji-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: TEAMOJI
+Address: 617 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Bakeries, Bubble Tea
+Rating: 3.9 / 5.0
+Review Count: 50
+Price Level: $
+Phone: (217) 607-5339
+Opening Hours: Mon: 11:00-22:00, Tue: 11:00-22:00, Wed: 11:00-22:00, Thu: 11:00-22:00, Fri: 11:00-22:00, Sat: 11:00-22:00, Sun: 11:00-22:00
+
+== USEFUL FOR ==
+- Cheap food
+- Dessert
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

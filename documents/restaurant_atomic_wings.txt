@@ -1,0 +1,22 @@
+Title: Atomic Wings Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/atomic-wings-champaign-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Atomic Wings
+Address: 622 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.33 miles
+Categories: Chicken Wings, Sandwiches, Halal
+Rating: 3.4 / 5.0
+Review Count: 14
+Price Level: N/A
+Phone: (217) 661-7155
+Opening Hours: Mon: 11:00-00:00, Tue: 11:00-00:00, Wed: 11:00-00:00, Thu: 11:00-03:00, Fri: 11:00-03:00, Sat: 11:00-03:00, Sun: 11:00-00:00
+
+== USEFUL FOR ==
+- Sandwiches
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

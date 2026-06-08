@@ -1,0 +1,21 @@
+Title: Jipbap Taste of Korea Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/jipbap-taste-of-korea-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Jipbap Taste of Korea
+Address: 601 S 6th St, Ste 101, Champaign, IL 61820
+Distance from Siebel Center: 0.35 miles
+Categories: Korean
+Rating: 3.9 / 5.0
+Review Count: 110
+Price Level: $
+Phone: (217) 552-1688
+Opening Hours: Mon: 10:30-21:00, Tue: 10:30-21:00, Wed: 10:30-21:00, Thu: 10:30-21:00, Fri: 10:30-21:00, Sat: 10:30-21:00, Sun: 10:30-21:00
+
+== USEFUL FOR ==
+- Cheap food
+- Asian food
+- Quick lunch near CS

@@ -1,0 +1,20 @@
+Title: Starbucks Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/starbucks-urbana-7
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Starbucks
+Address: 1206 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.23 miles
+Categories: Coffee & Tea
+Rating: 0.0 / 5.0
+Review Count: 0
+Price Level: N/A
+Phone: (217) 300-2605
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Coffee / cafe
+- Quick lunch near CS

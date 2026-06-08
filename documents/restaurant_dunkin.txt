@@ -1,0 +1,22 @@
+Title: Dunkin' Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/dunkin-champaign-3
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Dunkin'
+Address: 607 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.37 miles
+Categories: Coffee & Tea, Donuts
+Rating: 1.7 / 5.0
+Review Count: 18
+Price Level: $
+Phone: (217) 384-3375
+Opening Hours: Mon: 06:00-21:00, Tue: 06:00-21:00, Wed: 06:00-21:00, Thu: 06:00-21:00, Fri: 06:00-21:00, Sat: 06:00-21:00, Sun: 06:00-21:00
+
+== USEFUL FOR ==
+- Cheap food
+- Coffee / cafe
+- Takeout / delivery
+- Quick lunch near CS

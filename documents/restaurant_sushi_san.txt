@@ -1,0 +1,20 @@
+Title: Sushi San Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/sushi-san-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Sushi San
+Address: 1401 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.27 miles
+Categories: Restaurants
+Rating: 2.5 / 5.0
+Review Count: 4
+Price Level: $
+Phone: (217) 328-1886
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Cheap food
+- Quick lunch near CS

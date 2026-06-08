@@ -1,0 +1,22 @@
+Title: STARBUCKS Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/starbucks-champaign-6
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: STARBUCKS
+Address: 809 S Wright St, Champaign, IL 61820
+Distance from Siebel Center: 0.44 miles
+Categories: Coffee & Tea
+Rating: 2.0 / 5.0
+Review Count: 3
+Price Level: $$
+Phone: (217) 244-1775
+Opening Hours: Mon: 07:30-18:00, Tue: 07:30-18:00, Wed: 07:30-18:00, Thu: 07:30-18:00, Fri: 07:30-18:00, Sat: 11:00-16:00, Sun: 11:00-16:00
+
+== USEFUL FOR ==
+- Cheap food
+- Coffee / cafe
+- Takeout / delivery
+- Quick lunch near CS

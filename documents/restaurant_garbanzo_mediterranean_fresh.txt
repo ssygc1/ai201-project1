@@ -1,0 +1,20 @@
+Title: Garbanzo Mediterranean Fresh Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/garbanzo-mediterranean-fresh-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Garbanzo Mediterranean Fresh
+Address: 1401 W Green St, University of Illinois, Urbana, IL 61801
+Distance from Siebel Center: 0.27 miles
+Categories: Mediterranean, Fast Food, Halal
+Rating: 3.0 / 5.0
+Review Count: 4
+Price Level: N/A
+Phone: (217) 239-4737
+Opening Hours: Mon: 10:30-20:00, Tue: 10:30-20:00, Wed: 10:30-20:00, Thu: 10:30-20:00, Fri: 10:30-20:00, Sat: 11:00-18:00, Sun: 11:00-18:00
+
+== USEFUL FOR ==
+- Takeout / delivery
+- Quick lunch near CS

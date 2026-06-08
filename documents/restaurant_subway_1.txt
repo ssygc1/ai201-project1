@@ -1,0 +1,23 @@
+Title: Subway Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/subway-urbana-14
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Subway
+Address: 802 W, Urbana, IL 61801
+Distance from Siebel Center: 0.43 miles
+Categories: Sandwiches, Fast Food
+Rating: 1.4 / 5.0
+Review Count: 9
+Price Level: $
+Phone: (217) 367-1400
+Opening Hours: Mon: 09:00-22:00, Tue: 09:00-22:00, Wed: 09:00-22:00, Thu: 09:00-22:00, Fri: 09:00-23:00, Sat: 09:00-23:00, Sun: 09:00-22:00
+
+== USEFUL FOR ==
+- Cheap food
+- Sandwiches
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

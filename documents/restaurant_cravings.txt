@@ -1,0 +1,23 @@
+Title: Cravings Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/cravings-champaign-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Cravings
+Address: 603 S Wright St, Champaign, IL 61820
+Distance from Siebel Center: 0.28 miles
+Categories: Chinese, Pan Asian
+Rating: 4.1 / 5.0
+Review Count: 217
+Price Level: $
+Phone: (217) 328-2538
+Opening Hours: Mon: 11:00-21:00, Tue: 11:00-21:00, Wed: 11:00-21:00, Thu: 11:00-21:00, Fri: 11:00-21:00, Sat: 11:00-21:00
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Asian food
+- Takeout / delivery
+- Quick lunch near CS

@@ -1,0 +1,19 @@
+Title: Royal Bbq Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/royal-bbq-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Royal Bbq
+Address: 508 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.43 miles
+Categories: Barbeque, Cantonese, Hong Kong Style Cafe
+Rating: 3.8 / 5.0
+Review Count: 5
+Price Level: N/A
+Phone: (217) 607-1862
+Opening Hours: Mon: 11:00-21:30, Tue: 11:00-21:30, Wed: 11:00-21:30, Thu: 11:00-21:30, Fri: 11:00-21:30, Sat: 11:00-21:30, Sun: 11:00-21:30
+
+== USEFUL FOR ==
+- Quick lunch near CS

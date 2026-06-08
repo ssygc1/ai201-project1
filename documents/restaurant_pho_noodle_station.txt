@@ -1,0 +1,22 @@
+Title: Pho Noodle Station Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/pho-noodle-station-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Pho Noodle Station
+Address: 601 S 6th St, Champaign, IL 61821
+Distance from Siebel Center: 0.35 miles
+Categories: Vietnamese, Noodles
+Rating: 3.5 / 5.0
+Review Count: 29
+Price Level: N/A
+Phone: 
+Opening Hours: Mon: 11:00-21:30, Tue: 11:00-21:30, Wed: 11:00-21:30, Thu: 11:00-21:30, Fri: 11:00-22:00, Sat: 11:00-22:00, Sun: 11:00-21:30
+
+== USEFUL FOR ==
+- Asian food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

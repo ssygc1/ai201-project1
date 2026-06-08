@@ -1,0 +1,24 @@
+Title: Paris Super Crepes Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/paris-super-crepes-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Paris Super Crepes
+Address: 601 S 6th St, Ste 106, Champaign, IL 61820
+Distance from Siebel Center: 0.35 miles
+Categories: Desserts, Creperies
+Rating: 4.2 / 5.0
+Review Count: 80
+Price Level: $
+Phone: (217) 607-1404
+Opening Hours: Mon: 12:00-22:30, Tue: 12:00-22:30, Wed: 12:00-22:30, Thu: 12:00-22:30, Fri: 12:00-22:30, Sat: 12:00-23:00, Sun: 12:00-23:00
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Dessert
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

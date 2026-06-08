@@ -1,0 +1,21 @@
+Title: Circle K Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/circle-k-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Circle K
+Address: 810 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.38 miles
+Categories: Convenience Stores, Gas Stations
+Rating: 3.5 / 5.0
+Review Count: 2
+Price Level: $
+Phone: (217) 344-8725
+Opening Hours: Mon: 00:00-00:00, Tue: 00:00-00:00, Wed: 00:00-00:00, Thu: 00:00-00:00, Fri: 00:00-00:00, Sat: 00:00-00:00, Sun: 00:00-00:00
+
+== USEFUL FOR ==
+- Cheap food
+- Late night
+- Quick lunch near CS

@@ -1,0 +1,20 @@
+Title: Chicago Grill Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/chicago-grill-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Chicago Grill
+Address: 1405 W Springfield Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.20 miles
+Categories: Hot Dogs, Burgers, Pizza
+Rating: 2.7 / 5.0
+Review Count: 3
+Price Level: N/A
+Phone: (815) 694-6494
+Opening Hours: Mon: 11:00-18:00, Tue: 11:00-18:00, Wed: 11:00-18:00, Thu: 11:00-18:00, Fri: 11:00-18:00
+
+== USEFUL FOR ==
+- Pizza
+- Quick lunch near CS

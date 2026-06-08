@@ -1,0 +1,23 @@
+Title: BrewLab Coffee Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/brewlab-coffee-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: BrewLab Coffee
+Address: 630 S 5th St, Champaign, IL 61820
+Distance from Siebel Center: 0.43 miles
+Categories: Coffee & Tea
+Rating: 4.4 / 5.0
+Review Count: 73
+Price Level: $$
+Phone: (217) 666-2770
+Opening Hours: Mon: 08:00-18:00, Tue: 08:00-18:00, Wed: 08:00-18:00, Thu: 08:00-18:00, Fri: 08:00-18:00, Sat: 08:00-18:00, Sun: 08:00-18:00
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Coffee / cafe
+- Takeout / delivery
+- Quick lunch near CS

@@ -1,0 +1,22 @@
+Title: Evo Cafe Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/evo-cafe-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Evo Cafe
+Address: 711 S 6th St, Champaign, IL 61820
+Distance from Siebel Center: 0.43 miles
+Categories: Chinese
+Rating: 2.7 / 5.0
+Review Count: 82
+Price Level: $$
+Phone: (217) 328-7688
+Opening Hours: Mon: 11:00-21:00, Tue: 11:00-21:00, Wed: 11:00-21:00, Thu: 11:00-21:00, Fri: 11:00-21:00, Sat: 11:00-21:00, Sun: 11:00-21:00
+
+== USEFUL FOR ==
+- Cheap food
+- Asian food
+- Takeout / delivery
+- Quick lunch near CS

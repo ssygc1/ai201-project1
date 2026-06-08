@@ -1,0 +1,21 @@
+Title: Zhang Liang Malatang Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/zhang-liang-malatang-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Zhang Liang Malatang
+Address: 607 S 6th St, Champaign, IL 61820
+Distance from Siebel Center: 0.37 miles
+Categories: Chinese
+Rating: 4.3 / 5.0
+Review Count: 3
+Price Level: N/A
+Phone: (217) 778-9888
+Opening Hours: Mon: 11:00-21:00, Tue: 11:00-21:00, Wed: 11:00-21:00, Thu: 11:00-21:00, Fri: 11:00-21:00, Sat: 11:00-21:00, Sun: 11:00-21:00
+
+== USEFUL FOR ==
+- Highly rated
+- Asian food
+- Quick lunch near CS

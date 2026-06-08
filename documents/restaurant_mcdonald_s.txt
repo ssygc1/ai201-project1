@@ -1,0 +1,23 @@
+Title: McDonald's Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/mcdonalds-champaign-12
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: McDonald's
+Address: 616 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.35 miles
+Categories: Coffee & Tea, Burgers, Fast Food
+Rating: 1.3 / 5.0
+Review Count: 13
+Price Level: $
+Phone: (217) 384-4834
+Opening Hours: Mon: 07:30-02:30, Tue: 07:30-02:30, Wed: 07:30-02:30, Thu: 07:30-02:30, Fri: 07:30-02:30, Sat: 07:30-02:30, Sun: 07:30-02:30
+
+== USEFUL FOR ==
+- Cheap food
+- Coffee / cafe
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

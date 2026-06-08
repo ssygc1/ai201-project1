@@ -1,0 +1,20 @@
+Title: Szechuan Taste Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/szechuan-taste-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Szechuan Taste
+Address: 707 S 6th St, Ste 105, Champaign, IL 61820
+Distance from Siebel Center: 0.42 miles
+Categories: Chinese
+Rating: 3.1 / 5.0
+Review Count: 12
+Price Level: N/A
+Phone: (217) 530-4972
+Opening Hours: Mon: 11:00-21:30, Tue: 11:00-21:30, Wed: 11:00-21:30, Thu: 11:00-21:30, Fri: 11:00-21:30, Sat: 11:00-21:30, Sun: 11:00-21:30
+
+== USEFUL FOR ==
+- Asian food
+- Quick lunch near CS

@@ -1,0 +1,24 @@
+Title: Signature Grill Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/signature-grill-champaign-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Signature Grill
+Address: 505 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.42 miles
+Categories: Mediterranean, Indian, Mexican
+Rating: 4.2 / 5.0
+Review Count: 63
+Price Level: $
+Phone: (217) 607-0893
+Opening Hours: Mon: 11:00-22:00, Tue: 11:00-22:00, Wed: 11:00-22:00, Thu: 11:00-22:00, Fri: 11:00-23:00, Sat: 11:00-23:00, Sun: 11:00-22:00
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Mexican food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

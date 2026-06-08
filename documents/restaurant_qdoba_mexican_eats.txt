@@ -1,0 +1,22 @@
+Title: QDOBA Mexican Eats Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/qdoba-mexican-eats-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: QDOBA Mexican Eats
+Address: 711 S Wright St, Champaign, IL 61820
+Distance from Siebel Center: 0.35 miles
+Categories: Mexican, Fast Food
+Rating: 5.0 / 5.0
+Review Count: 1
+Price Level: N/A
+Phone: (217) 281-4880
+Opening Hours: Mon: 10:30-21:00, Tue: 10:30-21:00, Wed: 10:30-21:00, Thu: 10:30-21:00, Fri: 10:30-21:00, Sat: 10:30-21:00, Sun: 10:30-21:00
+
+== USEFUL FOR ==
+- Highly rated
+- Mexican food
+- Takeout / delivery
+- Quick lunch near CS

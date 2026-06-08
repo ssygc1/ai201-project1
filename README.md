@@ -9,31 +9,32 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+**UIUC CS Nearby Restaurant Guide** — restaurants within 0.5 miles of the Siebel Center for Computer Science (201 N Goodwin Ave, Urbana, IL).
+
+CS students constantly need to answer the question "where should I eat near the CS building?" Official university resources list on-campus dining halls but not the surrounding Campustown restaurants. Yelp and Google Maps require manually filtering by distance, cuisine, price, and hours with no reference point tied to Siebel Center. This system makes that knowledge instantly searchable: a student can ask "cheap Korean food near the CS building" or "coffee shops open late near Siebel" and get a grounded, attributed answer in seconds.
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
+100 restaurant profiles collected from Yelp via the Yelp Fusion API on 2026-06-08. Each document is a plain-text file in `documents/` covering one restaurant within 0.5 miles of Siebel Center. Fields per document: restaurant name, address, distance from Siebel Center, cuisine categories, rating (out of 5), review count, price level, phone, and opening hours.
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Espresso Royale – Grainger Engineering Library | Coffee shop (0.09 mi) | `documents/restaurant_espresso_royale_grainger_engineering_library.txt` — https://www.yelp.com/biz/espresso-royale-grainger-engineering-library-urbana-2 |
+| 2 | Ten Second Rice Noodle | Chinese noodles (0.29 mi, ★5.0) | `documents/restaurant_ten_second_rice_noodle.txt` — https://www.yelp.com/biz/ten-second-rice-noodle-champaign |
+| 3 | Sushi Ichiban | Japanese sushi (0.30 mi) | `documents/restaurant_sushi_ichiban.txt` — https://www.yelp.com/biz/sushi-ichiban-champaign |
+| 4 | Burrito King | Mexican food truck (0.31 mi) | `documents/restaurant_burrito_king.txt` — https://www.yelp.com/biz/burrito-king-urbana |
+| 5 | Spoon House Korean Kitchen | Korean (0.33 mi, $$) | `documents/restaurant_spoon_house_korean_kitchen.txt` — https://www.yelp.com/biz/spoon-house-korean-kitchen-champaign |
+| 6 | Oozu Ramen Bar | Ramen (0.34 mi, ★4.0) | `documents/restaurant_oozu_ramen_bar.txt` — https://www.yelp.com/biz/oozu-ramen-bar-champaign |
+| 7 | Susuru Ramen Bar | Ramen & Japanese curry (0.35 mi) | `documents/restaurant_susuru_ramen_bar.txt` — https://www.yelp.com/biz/susuru-ramen-bar-champaign |
+| 8 | Cracked on Green | Breakfast/brunch food truck (0.36 mi, ★4.0, $) | `documents/restaurant_cracked_on_green.txt` — https://www.yelp.com/biz/cracked-on-green-champaign |
+| 9 | Thai Fusion | Thai (0.37 mi) | `documents/restaurant_thai_fusion.txt` — https://www.yelp.com/biz/thai-fusion-champaign |
+| 10 | Chipotle Mexican Grill | Fast-food Mexican (0.38 mi, $) | `documents/restaurant_chipotle_mexican_grill.txt` — https://www.yelp.com/biz/chipotle-mexican-grill-champaign |
+| 11 | BrewLab Coffee | Specialty coffee (0.43 mi, ★4.4) | `documents/restaurant_brewlab_coffee.txt` — https://www.yelp.com/biz/brewlab-coffee-champaign |
+| 12 | Infinitea | Bubble tea & desserts (0.29 mi) | `documents/restaurant_infinitea.txt` — https://www.yelp.com/biz/infinitea-urbana |
+
+Full corpus: 100 files in `documents/`, all named `restaurant_<slug>.txt`.
 
 ---
 

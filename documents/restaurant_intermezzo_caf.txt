@@ -1,0 +1,21 @@
+Title: Intermezzo Café Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/intermezzo-caf%C3%A9-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Intermezzo Café
+Address: 500 S Goodwin Ave, Krannert Center, Urbana, IL 61801
+Distance from Siebel Center: 0.42 miles
+Categories: Bakeries, American
+Rating: 3.5 / 5.0
+Review Count: 10
+Price Level: $
+Phone: (217) 333-8412
+Opening Hours: Mon: 08:00-15:00, Tue: 08:00-15:00, Wed: 08:00-15:00, Thu: 08:00-15:00, Fri: 08:00-15:00
+
+== USEFUL FOR ==
+- Cheap food
+- Takeout / delivery
+- Quick lunch near CS

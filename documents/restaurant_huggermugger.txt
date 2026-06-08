@@ -1,0 +1,21 @@
+Title: Huggermugger Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/huggermugger-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Huggermugger
+Address: Gregory And Stoughton, Urbana, IL 61801
+Distance from Siebel Center: 0.22 miles
+Categories: Cheese Shops
+Rating: 5.0 / 5.0
+Review Count: 2
+Price Level: $
+Phone: 
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Quick lunch near CS

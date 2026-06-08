@@ -1,0 +1,21 @@
+Title: ILLINI PANTRY Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/illini-pantry-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: ILLINI PANTRY
+Address: 606 S Sixth St, Champaign, IL 61820
+Distance from Siebel Center: 0.34 miles
+Categories: Beer, Wine & Spirits
+Rating: 4.5 / 5.0
+Review Count: 4
+Price Level: $$
+Phone: (217) 344-5475
+Opening Hours: Mon: 10:00-00:00, Tue: 10:00-00:00, Wed: 10:00-00:00, Thu: 10:00-00:00, Fri: 10:00-00:00, Sat: 10:00-00:00, Sun: 10:00-00:00
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Quick lunch near CS

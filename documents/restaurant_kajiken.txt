@@ -1,0 +1,24 @@
+Title: Kajiken Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/kajiken-champaign-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Kajiken
+Address: 617 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Ramen, Desserts, Salad
+Rating: 4.1 / 5.0
+Review Count: 9
+Price Level: N/A
+Phone: (217) 628-6683
+Opening Hours: Mon: 11:00-22:00, Tue: 11:00-22:00, Wed: 11:00-22:00, Thu: 11:00-22:00, Fri: 11:00-22:00, Sat: 11:00-22:00, Sun: 11:00-21:00
+
+== USEFUL FOR ==
+- Highly rated
+- Asian food
+- Dessert
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

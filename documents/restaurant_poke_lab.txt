@@ -1,0 +1,22 @@
+Title: Poke Lab Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/poke-lab-champaign-4
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Poke Lab
+Address: 605 S Sixth St, Champaign, IL 61820
+Distance from Siebel Center: 0.37 miles
+Categories: Poke, Seafood, Japanese
+Rating: 3.7 / 5.0
+Review Count: 60
+Price Level: $
+Phone: (217) 552-1880
+Opening Hours: Mon: 11:00-21:30, Tue: 11:00-21:30, Wed: 11:00-21:30, Thu: 11:00-21:30, Fri: 11:00-21:30, Sat: 11:00-21:30, Sun: 11:00-21:30
+
+== USEFUL FOR ==
+- Cheap food
+- Asian food
+- Takeout / delivery
+- Quick lunch near CS

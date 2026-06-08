@@ -1,0 +1,19 @@
+Title: interlude Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/interlude-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: interlude
+Address: 500 S Goodwin, Urbana, IL 61801
+Distance from Siebel Center: 0.34 miles
+Categories: Restaurants
+Rating: 0.0 / 5.0
+Review Count: 0
+Price Level: N/A
+Phone: (217) 333-6700
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Quick lunch near CS

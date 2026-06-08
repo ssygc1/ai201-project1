@@ -1,0 +1,21 @@
+Title: Jerusalem Middle Eastern Cuisine Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/jerusalem-middle-eastern-cuisine-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Jerusalem Middle Eastern Cuisine
+Address: 601 S Wright St, Champaign, IL 61820
+Distance from Siebel Center: 0.29 miles
+Categories: Middle Eastern
+Rating: 3.7 / 5.0
+Review Count: 72
+Price Level: $
+Phone: (217) 344-8760
+Opening Hours: Mon: 11:00-18:00, Tue: 11:00-18:00, Wed: 11:00-18:00, Thu: 11:00-18:00, Fri: 11:00-18:00
+
+== USEFUL FOR ==
+- Cheap food
+- Takeout / delivery
+- Quick lunch near CS

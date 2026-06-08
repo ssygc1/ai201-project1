@@ -1,0 +1,22 @@
+Title: Panda Express Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/panda-express-champaign-5
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Panda Express
+Address: 627 S Wright St., Champaign, IL 61820
+Distance from Siebel Center: 0.32 miles
+Categories: Chinese, Fast Food
+Rating: 2.6 / 5.0
+Review Count: 27
+Price Level: $$
+Phone: (217) 344-3629
+Opening Hours: Mon: 10:00-21:30, Tue: 10:00-21:30, Wed: 10:00-21:30, Thu: 10:00-21:30, Fri: 10:00-21:30, Sat: 10:00-21:30, Sun: 10:00-21:30
+
+== USEFUL FOR ==
+- Cheap food
+- Asian food
+- Takeout / delivery
+- Quick lunch near CS

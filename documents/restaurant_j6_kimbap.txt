@@ -1,0 +1,20 @@
+Title: J6 Kimbap Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/j6-kimbap-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: J6 Kimbap
+Address: 516 E John St, Champaign, IL 61820
+Distance from Siebel Center: 0.43 miles
+Categories: Fast Food
+Rating: 4.2 / 5.0
+Review Count: 5
+Price Level: N/A
+Phone: (217) 607-2131
+Opening Hours: Mon: 11:00-19:00, Tue: 11:00-19:00, Wed: 11:00-19:00, Thu: 11:00-19:00, Fri: 11:00-19:00
+
+== USEFUL FOR ==
+- Highly rated
+- Quick lunch near CS

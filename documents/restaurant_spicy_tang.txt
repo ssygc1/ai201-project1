@@ -1,0 +1,22 @@
+Title: Spicy Tang Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/spicy-tang-champaign-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Spicy Tang
+Address: 607 S 6th St, Champaign, IL 61820
+Distance from Siebel Center: 0.37 miles
+Categories: Chinese
+Rating: 2.5 / 5.0
+Review Count: 46
+Price Level: $$
+Phone: (217) 200-8018
+Opening Hours: Mon: 10:30-21:30, Tue: 10:30-21:30, Wed: 10:30-21:30, Thu: 10:30-21:30, Fri: 10:30-21:30, Sat: 11:00-21:30, Sun: 11:00-21:30
+
+== USEFUL FOR ==
+- Cheap food
+- Asian food
+- Takeout / delivery
+- Quick lunch near CS

@@ -1,0 +1,21 @@
+Title: Moge Tee UIUC Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/moge-tee-uiuc-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Moge Tee UIUC
+Address: 505 East Green Street, Ste 104, Champaign, IL 61820
+Distance from Siebel Center: 0.44 miles
+Categories: Bubble Tea
+Rating: 3.3 / 5.0
+Review Count: 10
+Price Level: N/A
+Phone: (217) 607-1591
+Opening Hours: Mon: 12:00-21:00, Tue: 12:00-21:00, Wed: 12:00-21:00, Thu: 12:00-21:00, Fri: 12:00-22:00, Sat: 12:00-22:00, Sun: 12:00-21:00
+
+== USEFUL FOR ==
+- Dessert
+- Late night
+- Quick lunch near CS

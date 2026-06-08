@@ -1,0 +1,20 @@
+Title: Ten Second Rice Noodle Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/ten-second-rice-noodle-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Ten Second Rice Noodle
+Address: 607 S Wright St, Champaign, IL 61820
+Distance from Siebel Center: 0.29 miles
+Categories: Noodles
+Rating: 5.0 / 5.0
+Review Count: 2
+Price Level: N/A
+Phone: (217) 607-1848
+Opening Hours: Mon: 11:00-21:00, Tue: 11:00-21:00, Wed: 11:00-21:00, Thu: 11:00-21:00, Fri: 11:00-21:00, Sat: 11:00-21:00, Sun: 11:00-21:00
+
+== USEFUL FOR ==
+- Highly rated
+- Quick lunch near CS

@@ -1,0 +1,22 @@
+Title: Dutch Bros Coffee Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/dutch-bros-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Dutch Bros Coffee
+Address: 809 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.40 miles
+Categories: Coffee & Tea, Juice Bars & Smoothies
+Rating: 4.3 / 5.0
+Review Count: 6
+Price Level: N/A
+Phone: (877) 899-2767
+Opening Hours: Mon: 05:00-22:00, Tue: 05:00-22:00, Wed: 05:00-22:00, Thu: 05:00-22:00, Fri: 05:00-23:00, Sat: 05:00-23:00, Sun: 05:00-22:00
+
+== USEFUL FOR ==
+- Highly rated
+- Coffee / cafe
+- Late night
+- Quick lunch near CS

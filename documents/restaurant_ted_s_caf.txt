@@ -1,0 +1,21 @@
+Title: Ted's Cafè Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/teds-caf%C3%A8-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Ted's Cafè
+Address: 405 N Mathews Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.19 miles
+Categories: Coffee & Tea, Pizza, Cafes
+Rating: 0.0 / 5.0
+Review Count: 0
+Price Level: N/A
+Phone: (217) 244-1792
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Coffee / cafe
+- Pizza
+- Quick lunch near CS

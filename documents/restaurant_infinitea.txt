@@ -1,0 +1,20 @@
+Title: Infinitea Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/infinitea-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Infinitea
+Address: 1010 W Illinois St, Fl 1, Urbana, IL 61801
+Distance from Siebel Center: 0.29 miles
+Categories: Desserts, Juice Bars & Smoothies, Bubble Tea
+Rating: 0.0 / 5.0
+Review Count: 0
+Price Level: N/A
+Phone: 
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Dessert
+- Quick lunch near CS

@@ -1,0 +1,24 @@
+Title: Oozu Ramen Bar Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/oozu-ramen-bar-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Oozu Ramen Bar
+Address: 601 S 6th St, Ste 102, Champaign, IL 61820
+Distance from Siebel Center: 0.34 miles
+Categories: Ramen
+Rating: 4.0 / 5.0
+Review Count: 61
+Price Level: $$
+Phone: (217) 552-1081
+Opening Hours: Mon: 11:30-22:00, Tue: 11:30-22:00, Wed: 11:30-22:00, Thu: 11:30-22:00, Fri: 11:30-22:30, Sat: 11:30-22:30, Sun: 11:30-22:00
+
+== USEFUL FOR ==
+- Cheap food
+- Highly rated
+- Asian food
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

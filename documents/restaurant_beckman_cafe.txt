@@ -1,0 +1,20 @@
+Title: Beckman Cafe Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/beckman-cafe-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Beckman Cafe
+Address: 405 N Mathews Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.20 miles
+Categories: Cafeteria
+Rating: 3.6 / 5.0
+Review Count: 10
+Price Level: $
+Phone: (217) 244-1792
+Opening Hours: Mon: 08:00-17:00, Tue: 08:00-17:00, Wed: 08:00-17:00, Thu: 08:00-17:00, Fri: 08:00-17:00
+
+== USEFUL FOR ==
+- Cheap food
+- Quick lunch near CS

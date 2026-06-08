@@ -1,0 +1,23 @@
+Title: Einstein Bros. Bagels Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/einstein-bros-bagels-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Einstein Bros. Bagels
+Address: 901 W University Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.32 miles
+Categories: Breakfast & Brunch, Sandwiches, Bagels
+Rating: 3.3 / 5.0
+Review Count: 47
+Price Level: $
+Phone: (217) 344-7520
+Opening Hours: Mon: 06:00-13:30, Tue: 06:00-13:30, Wed: 06:00-13:30, Thu: 06:00-13:30, Fri: 06:00-13:30, Sat: 06:00-13:00, Sun: 07:00-13:00
+
+== USEFUL FOR ==
+- Cheap food
+- Sandwiches
+- Breakfast / brunch
+- Takeout / delivery
+- Quick lunch near CS

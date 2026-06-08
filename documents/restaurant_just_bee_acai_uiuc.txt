@@ -1,0 +1,20 @@
+Title: Just Bee Acai Uiuc Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/just-bee-acai-uiuc-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Just Bee Acai Uiuc
+Address: 1401 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.33 miles
+Categories: Vegan, Acai Bowls, Gluten-Free
+Rating: 4.7 / 5.0
+Review Count: 3
+Price Level: N/A
+Phone: (217) 649-3437
+Opening Hours: Mon: 09:00-18:00, Tue: 09:00-18:00, Wed: 09:00-18:00, Thu: 09:00-18:00, Fri: 09:00-18:00, Sat: 09:00-15:00
+
+== USEFUL FOR ==
+- Highly rated
+- Quick lunch near CS

@@ -1,0 +1,20 @@
+Title: Etc Coffeehouse Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/etc-coffeehouse-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Etc Coffeehouse
+Address: 1203 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.25 miles
+Categories: Coffee & Tea
+Rating: 0.0 / 5.0
+Review Count: 0
+Price Level: N/A
+Phone: (217) 344-1120
+Opening Hours: N/A
+
+== USEFUL FOR ==
+- Coffee / cafe
+- Quick lunch near CS

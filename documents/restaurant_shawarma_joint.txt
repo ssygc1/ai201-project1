@@ -1,0 +1,23 @@
+Title: Shawarma Joint Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/shawarma-joint-champaign-3
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Shawarma Joint
+Address: 627 E Green St, Champaign, IL 61820
+Distance from Siebel Center: 0.35 miles
+Categories: Mediterranean, Wraps
+Rating: 4.4 / 5.0
+Review Count: 88
+Price Level: N/A
+Phone: (217) 552-1320
+Opening Hours: Mon: 10:00-22:00, Tue: 10:00-22:00, Wed: 10:00-22:00, Thu: 10:00-22:00, Fri: 10:00-22:00, Sat: 10:00-22:00, Sun: 10:00-22:00
+
+== USEFUL FOR ==
+- Highly rated
+- Sandwiches
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

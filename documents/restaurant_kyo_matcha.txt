@@ -1,0 +1,23 @@
+Title: Kyo Matcha Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/kyo-matcha-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Kyo Matcha
+Address: 617 E Green St, Fl 2, Champaign, IL 61820
+Distance from Siebel Center: 0.36 miles
+Categories: Desserts, Ice Cream & Frozen Yogurt
+Rating: 5.0 / 5.0
+Review Count: 5
+Price Level: N/A
+Phone: 
+Opening Hours: Mon: 11:00-22:00, Tue: 11:00-22:00, Wed: 11:00-22:00, Thu: 11:00-22:00, Fri: 11:00-22:00, Sat: 11:00-22:00, Sun: 11:00-22:00
+
+== USEFUL FOR ==
+- Highly rated
+- Dessert
+- Takeout / delivery
+- Late night
+- Quick lunch near CS

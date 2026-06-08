@@ -1,0 +1,22 @@
+Title: Spoon House Korean Kitchen Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/spoon-house-korean-kitchen-champaign
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Spoon House Korean Kitchen
+Address: 616 E Green St, Ste B, Champaign, IL 61820
+Distance from Siebel Center: 0.33 miles
+Categories: Korean
+Rating: 3.3 / 5.0
+Review Count: 118
+Price Level: $$
+Phone: (217) 344-3483
+Opening Hours: Mon: 10:30-21:00, Tue: 10:30-21:00, Wed: 10:30-21:00, Thu: 10:30-21:00, Fri: 10:30-21:00, Sat: 10:30-21:00, Sun: 10:30-21:00
+
+== USEFUL FOR ==
+- Cheap food
+- Asian food
+- Takeout / delivery
+- Quick lunch near CS

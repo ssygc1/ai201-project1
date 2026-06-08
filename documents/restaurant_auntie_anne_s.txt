@@ -1,0 +1,20 @@
+Title: Auntie Anne's Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/auntie-annes-urbana
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Auntie Anne's
+Address: 1401 W Green St, Urbana, IL 61801
+Distance from Siebel Center: 0.33 miles
+Categories: Pretzels
+Rating: 1.5 / 5.0
+Review Count: 2
+Price Level: N/A
+Phone: (217) 300-5914
+Opening Hours: Mon: 10:00-20:00, Tue: 10:00-20:00, Wed: 10:00-20:00, Thu: 10:00-20:00, Fri: 10:00-20:00, Sat: 10:00-20:00, Sun: 12:00-18:00
+
+== USEFUL FOR ==
+- Takeout / delivery
+- Quick lunch near CS

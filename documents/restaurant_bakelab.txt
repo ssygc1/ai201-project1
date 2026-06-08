@@ -1,0 +1,22 @@
+Title: Bakelab Review Profile
+Source: Yelp
+Source URL: https://www.yelp.com/biz/bakelab-urbana-2
+Date Collected: 2026-06-07
+Reference Location: Siebel Center for Computer Science, UIUC
+
+== METADATA ==
+Restaurant: Bakelab
+Address: 410 N Lincoln Ave, Urbana, IL 61801
+Distance from Siebel Center: 0.33 miles
+Categories: Coffee & Tea, Bakeries, Desserts
+Rating: 4.6 / 5.0
+Review Count: 53
+Price Level: N/A
+Phone: (217) 979-7123
+Opening Hours: Mon: 08:00-18:00, Tue: 08:00-18:00, Wed: 08:00-18:00, Thu: 08:00-18:00, Fri: 08:00-18:00, Sat: 08:00-18:00, Sun: 08:00-18:00
+
+== USEFUL FOR ==
+- Highly rated
+- Coffee / cafe
+- Dessert
+- Quick lunch near CS
