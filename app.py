@@ -44,10 +44,23 @@ def handle_query(question: str):
     return answer_md, footnotes
 
 
+def _content_to_str(content) -> str:
+    """Extract plain text from Gradio 6 content (str or list of content dicts)."""
+    if isinstance(content, str):
+        return content
+    if isinstance(content, list):
+        parts = [
+            item.get("text", "") if isinstance(item, dict) and item.get("type") == "text" else ""
+            for item in content
+        ]
+        return " ".join(p for p in parts if p)
+    return str(content)
+
+
 def handle_chat(message: str, history: list[dict]) -> tuple[str, list[dict]]:
     """
     Multi-turn chat handler. `history` follows Gradio 6's messages format
-    (list of {"role": "user"|"assistant", "content": str}). We convert it
+    (list of {"role": "user"|"assistant", "content": str|list}). We convert it
     to the (user, assistant) tuple list that ask_with_history expects.
     """
     if not message.strip():
@@ -57,9 +70,9 @@ def handle_chat(message: str, history: list[dict]) -> tuple[str, list[dict]]:
     pending_user = None
     for turn in history:
         if turn["role"] == "user":
-            pending_user = turn["content"]
+            pending_user = _content_to_str(turn["content"])
         elif turn["role"] == "assistant" and pending_user is not None:
-            pairs.append((pending_user, turn["content"]))
+            pairs.append((pending_user, _content_to_str(turn["content"])))
             pending_user = None
 
     result = ask_with_history(message, pairs)
